@@ -1,0 +1,2 @@
+# VirtualRikotenAppPrivacyPolicy
+バーチャル理工展アプリのプライバシーポリシーを載せます
